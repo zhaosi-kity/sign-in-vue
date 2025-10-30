@@ -1,0 +1,19 @@
+{
+  "name": "sign-in-vue",
+  "version": "1.0.0",
+  "description": "一个基于 Vue 3 的签到集成前端项目",
+  "author": "zhaosi-kity",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0",
+    "@vitejs/plugin-vue": "^4.3.0"
+  }
+}
